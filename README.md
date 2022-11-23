@@ -1,0 +1,1 @@
+# 6_Regresi-n_Lineal_m-ltiple
